@@ -1,0 +1,2 @@
+[10-Jun-2018 15:54:23 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home1/lingerie2018/public_html/wp-content/plugins/hello.php on line 60
+[10-Jun-2018 15:54:28 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home1/lingerie2018/public_html/wp-content/plugins/hello.php on line 60
